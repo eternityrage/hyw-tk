@@ -686,5 +686,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-ba4da2f4-c6ef-4a56-b825-2bd4935f9fee_subtitled (1).mp4",
+        "metadata": {
+            "title": "Haywire Haugsy Unleashes the Donkey Roast That Might Get Your Job Put on HOLD! \ud83e\udecf\ud83d\udd25",
+            "description": "I swear this donkey doesn\u2019t just talk nonsense\u2026 it delivers savage career-ending one-liners like it\u2019s clocking in for chaos! Every word is louder, dirtier, and way funnier than it has any right to be\u2014like it learned roast comedy from the wildest group chat on Earth. Like if this donkey ended your career! Comment who to roast next! Follow Haywire Haugsy and prepare to laugh so hard you start blaming the donkey for your tears. Warning: this donkey is sassy, fearless, and absolutely not here to be polite. ",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
