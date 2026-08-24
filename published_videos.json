@@ -862,5 +862,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-ba4da2f4-c6ef-4a56-b825-2bd4935f9fee_subtitled (1).mp4",
+        "metadata": {
+            "title": "Haywire Haugsy: This Donkey Just Tried to Roast\u2026 and Somehow Got Personal \ud83d\ude2d\ud83d\udc34\ud83d\udd25",
+            "description": "I swear this donkey doesn\u2019t just talk nonsense\u2014he TERMINATES reputations for breakfast! One minute you\u2019re minding your business, the next minute Haywire Haugsy is serving savage, ruthless roasts like he\u2019s getting paid per humiliation. The comedy is so unhinged you\u2019ll be wheezing while it drags someone\u2019s ego through the mud. Like if this donkey ended your career! Comment who to roast next! Follow Haywire Haugsy!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
