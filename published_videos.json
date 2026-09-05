@@ -1422,5 +1422,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-ba4da2f4-c6ef-4a56-b825-2bd4935f9fee (2)_subtitled.mp4",
+        "metadata": {
+            "title": "Haywire Haugsy\u2019s Savage Donkey Roast: \u201cLike If This Donkey Ended Your Career!\u201d \ud83e\udd2f\ud83d\ude02",
+            "description": "I swear I\u2019m losing it\u2014this donkey is talking absolute nonsense and somehow roasting people with precision like it has a manager on payroll. One minute it\u2019s braying gibberish, the next it\u2019s flipping savage insults like it\u2019s reading from the world\u2019s funniest receipt. This is the kind of chaos that makes you laugh, gasp, and then refresh because you missed the punchline! Like if this donkey ended your career! Comment who to roast next! Follow Haywire Haugsy for more hilarious, unexpected animal mayhem.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
