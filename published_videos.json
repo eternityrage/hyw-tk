@@ -3966,5 +3966,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-ba4da2f4-c6ef-4a56-b825-2bd4935f9fee (5)_subtitled.mp4",
+        "metadata": {
+            "title": "This Donkey Doesn't Hold Back - Prepare Yourself",
+            "description": "There's something about a donkey delivering roasts that hits different. Maybe it's the ears, maybe it's the face, maybe it's the complete disregard for human emotions - whatever it is, this haywire haugy is the funniest thing on the internet right now. The way it builds tension and delivers the punchline with perfect timing is better than most stand-up comedians.",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
